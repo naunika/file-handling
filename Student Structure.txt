@@ -1,0 +1,4 @@
+06	Amrita	9.00
+47 	Naunika	9.45 
+07	Aveeshi	9.93
+03	Ankita	9.89   	   

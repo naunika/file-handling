@@ -1,0 +1,5 @@
+R.NO. 	 NAME		 CPI 
+06	Amrita		9.00
+47 	Naunika		9.45
+03	Ankita		9.89
+07	Aveeshi		9.93 
